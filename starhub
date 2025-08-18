@@ -786,7 +786,6 @@ https://ucdn.starhubgo.com/bpk-tv/SkyNewsHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48276f9de9b84653ba243f74868a2048:e6d2d5b9ccc01d5fb606a084429a8bf7
 https://ucdn.starhubgo.com/bpk-tv/SEAToday/output/manifest.mpd
-48276f9de9b84653ba243f74868a2048:e6d2d5b9ccc01d5fb606a084429a8bf7
 
 #EXTINF:-1 tvg-id="TVBS.News.sg" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -794,3 +793,4 @@ https://ucdn.starhubgo.com/bpk-tv/SEAToday/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1ba248b9e442df918b9a536cda8886:0ab81d2fa6281223a98528c2359be10e
 https://ucdn.starhubgo.com/bpk-tv/TVBSNews/output/manifest.mpd
+
