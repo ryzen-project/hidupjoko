@@ -2,7 +2,7 @@
 
 ############## SPORTS ##############
 
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png",Hub Premier 1 HD
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png",Hub Premier 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -179,7 +179,7 @@ https://ucdn.starhubgo.com/bpk-tv/FightSportsHD/output/manifest.mpd
 
 ############## SPORTS NEW ##############
 
-#EXTINF:-1 tvg-id="SPOTV - [Channel 307].id" tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png" group-title="SPORTS NEW",SPOTV ID
+#EXTINF:-1 tvg-id="SPOTV - [Channel 307].id" tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png" group-title="SPORTS NEW",SPOTV ID
 #EXTHTTP:{"User-Agent":"Vision+/11.3.8 (4.2503051253) Vision+ (Linux;Android 14) ExoPlayerLib/2.18.7"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -445,7 +445,7 @@ https://live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd
 
 ############## FILM ##############
 
-#EXTINF:-1 tvg-id="CCM.sg" group-title="FILM" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",CCM
+#EXTINF:-1 tvg-id="CCM.sg" group-title="FILM" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png",CCM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -510,7 +510,7 @@ https://ucdn.starhubgo.com/bpk-tv/HitsMoviesHD/output/manifest.mpd
 
 ############## KIDS ##############
 
-#EXTINF:-1 tvg-id="Cartoon.Network.(HD).sg" group-title="KIDS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.(HD).sg" group-title="KIDS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png",Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -598,7 +598,7 @@ https://ucdn.starhubgo.com/bpk-tv/BlueAntEntertainmentHD/output/manifest.mpd
 
 ############## KNOWLEDGE ##############
 
-#EXTINF:-1 tvg-id="ABC.Australia.sg" group-title="KNOWLEDGE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
+#EXTINF:-1 tvg-id="ABC.Australia.sg" group-title="KNOWLEDGE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png",ABC Australia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -663,7 +663,7 @@ https://ucdn.starhubgo.com/bpk-tv/TravelxpHD/output/manifest.mpd
 
 ############## INTERNATIONAL ##############
 
-#EXTINF:-1 tvg-id="Adithya.TV.sg" group-title="INTERNATIONAL" tvg-logo="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png",ADITHYA TV
+#EXTINF:-1 tvg-id="Adithya.TV.sg" group-title="INTERNATIONAL" tvg-logo="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png",ADITHYA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -833,7 +833,7 @@ https://ucdn.starhubgo.com/bpk-tv/ZeeCinema/output/manifest.mpd
 
 ############## ASIA CHINESE ##############
 
-#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="ASIA CHINESE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV HD
+#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="ASIA CHINESE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png",Arirang TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -962,7 +962,7 @@ https://ucdn.starhubgo.com/bpk-tv/TVBSAsia/output/manifest.mpd
 
 ############## NEWS ##############
 
-#EXTINF:-1 tvg-id="BBC.News.sg" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png",BBC World News HD
+#EXTINF:-1 tvg-id="BBC.News.sg" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png",BBC World News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1059,4 +1059,3 @@ https://ucdn.starhubgo.com/bpk-tv/SEAToday/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1ba248b9e442df918b9a536cda8886:0ab81d2fa6281223a98528c2359be10e
 https://ucdn.starhubgo.com/bpk-tv/TVBSNews/output/manifest.mpd
-
