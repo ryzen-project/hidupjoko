@@ -5,175 +5,175 @@
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png",Hub Premier 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png",Hub Premier 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
 https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png",Hub Premier 2 4K
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
 https://ucdn.starhubgo.com/bpk-tv/HubPremier2_4K/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png",Hub Premier 3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
 https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png",Hub Premier 4 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
 https://ucdn.starhubgo.com/bpk-tv/HubPremier4/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Premier.5.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png",Hub Premier 5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
 https://ucdn.starhubgo.com/bpk-tv/HubPremier5/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Premier.6.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png",Hub Premier 6 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
 https://ucdn.starhubgo.com/bpk-tv/HubPremier6/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Premier.7.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/227_1920x1080_HTV.png",Hub Premier 7 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec361b73771546b3b42aadbd847d4ad6:bcb5a85c2236d319aff588fe280e0a35
 https://ucdn.starhubgo.com/bpk-tv/HubPremier7/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png",Hub Premier 8 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
 https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.(HD).sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/213_1920x1080_HTV.png",beIN Sports HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
 https://ucdn.starhubgo.com/bpk-tv/BeINSportsHD/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.(HD).sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/211_1920x1080_HTV.png",beIN Sports 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
 https://ucdn.starhubgo.com/bpk-tv/beINSportsHD2/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.(HD).sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png",beIN Sports 3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
 https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.4.(HD).sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png",beIN Sports 4 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
 https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.(HD).sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png",beIN Sports 5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
 https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Sports.1.HD.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png",Hub Sports 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
 https://ucdn.starhubgo.com/bpk-tv/HubSports1HDnew1/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Sports.2.HD.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/202_1920x1080_HTV.png",Hub Sports 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
 https://ucdn.starhubgo.com/bpk-tv/HubSports2HD/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Sports.3.HD.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png",Hub Sports 3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
 https://ucdn.starhubgo.com/bpk-tv/HubSports3HDNEW/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Sports.4.HD.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png",Hub Sports 4 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
 https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Sports.5.HD.sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png",Hub Sports 5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
 https://ucdn.starhubgo.com/bpk-tv/HubSports5HD/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Sports.Dummy.us" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png",Hub Sports 6 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
 https://ucdn.starhubgo.com/bpk-tv/HubSports6/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Sports.Dummy.us" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png",Hub Sports 7 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
 https://ucdn.starhubgo.com/bpk-tv/HubSports7/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Sports.Dummy.us" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png",Hub Sports 8 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
 https://ucdn.starhubgo.com/bpk-tv/HubSports8/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="SPOTV.(HD).sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png",SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9b08ce3328f467dac1c6ff03b4cf358:499e104ca0c44ebc78d601094001cd67
 https://ucdn.starhubgo.com/bpk-tv/SPOTVNEW/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="SPOTV.2.(HD).sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/210_1920x1080_HTV.png",SPOTV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3fab992070540f69551d9497a1499ab:6c48e33896b10978099f81ca0b454aff
 https://ucdn.starhubgo.com/bpk-tv/SPOTV2NEW/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Fight.Sports.(HD).sg" group-title="SPORTS - 10.lowh.net" tvg-logo="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png",Fight Sports HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc9238583b9c4c619683cdb633ba3d12:84a756647f362c601502ef6bb4a013da
 https://ucdn.starhubgo.com/bpk-tv/FightSportsHD/output/manifest.mpd
 
@@ -586,55 +586,55 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.m
 https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=42
+#KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="HITSMovies.id" tvg-name="Hits Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/hitsmovies.jpg" group-title="MOVIES",HITS MOVIES
 https://fta4-cdn-flr.visionplus.id/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Originals.id" tvg-name="Originals" tvg-logo="https://mimipipi22.github.io/logo/movies/originals.jpg" group-title="MOVIES",ORIGINALS
 https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="BuddyStar.id" tvg-name="Buddy Star" tvg-logo="https://mimipipi22.github.io/logo/movies/buddystar.jpg" group-title="MOVIES",BUDDY STAR
 https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Uniques.id" tvg-name="Uniques" tvg-logo="https://mimipipi22.github.io/logo/movies/uniques.jpg" group-title="MOVIES",UNIQUES
 https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Superrix.id" tvg-name="Superrix" tvg-logo="https://mimipipi22.github.io/logo/movies/superrix.jpg" group-title="MOVIES",SUPERRIX
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="CineEdge.id" tvg-name="CineEdge" tvg-logo="https://mimipipi22.github.io/logo/movies/cineedge.jpg" group-title="MOVIES",CINEEDGE
 https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="GALAXYPremium.id" tvg-name="GALAXY Premium.id" tvg-logo="https://mimipipi22.github.io/logo/movies/galaxypremium.jpg" group-title="MOVIES",GALAXY PREMIUM
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -662,7 +662,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://mimipipi22.github.io/logo/movies/thrill.jpg" group-title="MOVIES",THRILL
 https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -672,7 +672,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://mimipipi22.github.io/logo/movies/flik.jpg" group-title="MOVIES",FLIK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
@@ -706,7 +706,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/rockent.jpg" group-title="ENTERTAINMENT",ROCK ENTERTAINMENT
 https://fta2-cdn-flr.visionplus.id/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -808,14 +808,14 @@ https://fta1-cdn-flr.visionplus.id/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index
 #EXTINF:-1 tvg-id="CGTNDocumentary.id" tvg-name="CGTN Documentary" tvg-logo="https://mimipipi22.github.io/logo/knowledge/cgtndoc.jpg" group-title="KNOWLEDGE",CGTN DOC
 https://fta3-cdn-flr.visionplus.id/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://mimipipi22.github.io/logo/knowledge/crimeinvestigation.jpg" group-title="KNOWLEDGE",CRIME INVESTIGATION
 https://fta4-cdn-flr.visionplus.id/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -829,7 +829,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index
 #EXTINF:-1 tvg-id="History.id" tvg-name="History" tvg-logo="https://mimipipi22.github.io/logo/knowledge/history.jpg" group-title="KNOWLEDGE",HISTORY
 https://fta3-cdn-flr.visionplus.id/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -838,35 +838,35 @@ https://fta4-cdn-flr.visionplus.id/out/v1/15500e8f0dc44058ba0431d39a8fed57/index
 
 ############## NEWS ##############
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://mimipipi22.github.io/logo/news/cnbcasia.jpg" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png" group-title="NEWS",CNBC ASIA
 https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44003e0bf3cc4cfa8a35cead51e34d42:a46e0bee874435aeb96fcac1177275a1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="DWEnglish.id" tvg-name="DW English" tvg-logo="https://mimipipi22.github.io/logo/news/dw.jpg" group-title="NEWS",DW ENGLISH
 https://fta2-cdn-flr.visionplus.id/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c2df5b13c04708a89de814f5b73f8e:0a2678dca36ec3e46e223bb3aafdaf37
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://mimipipi22.github.io/logo/news/aljazeeraeng.jpg" group-title="NEWS",ALJAZEERA ENGLISH
 https://fta1-cdn-flr.visionplus.id/out/v1/b1d58fabf2764d52aa1e130f4a45d2af/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb0dd5a64a3c45e086cb23f7f9649fbc:d68ee78a9b1703da869a983b57d95c60
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="CNA.id" tvg-name="CNA" tvg-logo="https://mimipipi22.github.io/logo/news/cna.jpg" group-title="NEWS",CNA
 https://fta3-cdn-flr.visionplus.id/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0750d198f4824ea7bbb82beede8f55d3:352108d6c83c5ea32c42b4f7465ad3ee
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
