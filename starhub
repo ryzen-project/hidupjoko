@@ -355,7 +355,7 @@ https://aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/
 #KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 https://aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn.png" group-title="SPORTS NEW",ESPN CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORTS NEW",ESPN CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -363,7 +363,7 @@ https://aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_HD)/master.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn2.png" group-title="SPORTS NEW",ESPN 2 CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="SPORTS NEW",ESPN 2 CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -371,7 +371,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn3.png" group-title="SPORTS NEW",ESPN 3 CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/LNQtJjG/espn3cl.png" group-title="SPORTS NEW",ESPN 3 CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -379,7 +379,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_3_HD)/master.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn4.png" group-title="SPORTS NEW",ESPN 4 CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/QkzBxW3/espn4.png" group-title="SPORTS NEW",ESPN 4 CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -387,7 +387,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn5.png" group-title="SPORTS NEW",ESPN 5 CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/4f70pMW/espn5.png" group-title="SPORTS NEW",ESPN 5 CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -395,7 +395,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn6.png" group-title="SPORTS NEW",ESPN 6 CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/NpXGMH7/espn6.png" group-title="SPORTS NEW",ESPN 6 CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -403,7 +403,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn7.png" group-title="SPORTS NEW",ESPN 7 CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/2MJNnh2/espn7.png" group-title="SPORTS NEW",ESPN 7 CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
