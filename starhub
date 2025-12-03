@@ -179,7 +179,7 @@ https://ucdn.starhubgo.com/bpk-tv/FightSportsHD/output/manifest.mpd
 
 ############## SPORTS NEW ##############
 
-#EXTINF:-1 tvg-id="SPOTV - [Channel 307].id" tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png" group-title="SPORTS NEW",SPOTV ID
+#EXTINF:-1 tvg-id="SPOTV - [Channel 307].id" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png" group-title="SPORTS NEW",SPOTV ID
 #EXTHTTP:{"User-Agent":"Vision+/11.3.8 (4.2503051253) Vision+ (Linux;Android 14) ExoPlayerLib/2.18.7"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -187,7 +187,7 @@ https://ucdn.starhubgo.com/bpk-tv/FightSportsHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
-#EXTINF:-1 tvg-id="SPOTV 2 - [Channel 308].id" tvg-logo="https://i.ibb.co.com/ZM8qx15/spotv2.png" group-title="SPORTS NEW",SPOTV2 ID
+#EXTINF:-1 tvg-id="SPOTV 2 - [Channel 308].id" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="SPORTS NEW",SPOTV2 ID
 #EXTHTTP:{"User-Agent":"Vision+/11.3.8 (4.2503051253) Vision+ (Linux;Android 14) ExoPlayerLib/2.18.7"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -195,7 +195,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png" group-title="SPORTS NEW",SPOTV MY
+#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" group-title="SPORTS NEW",SPOTV MY
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -203,7 +203,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 #KODIPROP:inputstream.adaptive.license_key=46440eec3eeb6471abeb707b95450ccf:3503559f766f80106810aa7e1a485f1d
 https://unifi-live10.secureswiftcontent.com/UnifiHD/live10.mpd
 
-#EXTINF:-1 tvg-id="824.astro" tvg-logo="https://i.ibb.co.com/ZM8qx15/spotv2.png" group-title="SPORTS NEW",SPOTV 2 MY
+#EXTINF:-1 tvg-id="824.astro" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="SPORTS NEW",SPOTV 2 MY
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -211,7 +211,7 @@ https://unifi-live10.secureswiftcontent.com/UnifiHD/live10.mpd
 #KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
 https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-logo="https://i.ibb.co.com/zr3KPMd/sportstars.png" group-title="SPORTS NEW",SPORTSTARS
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="SPORTS NEW",SPORTSTARS
 #EXTHTTP:{"User-Agent":"Vision+/11.3.8 (4.2503051253) Vision+ (Linux;Android 14) ExoPlayerLib/2.18.7"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -219,7 +219,7 @@ https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars 2 - [Channel 98].id" tvg-logo="https://i.ibb.co.com/fHyGqxZ/sportstars2.png" group-title="SPORTS NEW",SPORTSTARS 2
+#EXTINF:-1 tvg-id="Sportstars 2 - [Channel 98].id" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg" group-title="SPORTS NEW",SPORTSTARS 2
 #EXTHTTP:{"User-Agent":"Vision+/11.3.8 (4.2503051253) Vision+ (Linux;Android 14) ExoPlayerLib/2.18.7"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -227,7 +227,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars 4 - [Channel 88].id" tvg-logo="https://i.ibb.co.com/M6FBFxh/sportstars4.png" group-title="SPORTS NEW",SPORTSTARS 4
+#EXTINF:-1 tvg-id="Sportstars 4 - [Channel 88].id" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="SPORTS NEW",SPORTSTARS 4
 #EXTHTTP:{"User-Agent":"Vision+/11.3.8 (4.2503051253) Vision+ (Linux;Android 14) ExoPlayerLib/2.18.7"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -235,7 +235,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://fta4-cdn-flr.visionplus.id/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#EXTINF:-1 tvg-id="Soccer Channel - [Channel 101].id" tvg-logo="https://i.ibb.co.com/thFkNxM/soccerch.png" group-title="SPORTS NEW",SOCCER CHANNEL
+#EXTINF:-1 tvg-id="Soccer Channel - [Channel 101].id" tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="SPORTS NEW",SOCCER CHANNEL
 #EXTHTTP:{"User-Agent":"Vision+/11.3.8 (4.2503051253) Vision+ (Linux;Android 14) ExoPlayerLib/2.18.7"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -243,7 +243,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 tvg-id="Bein 1.id" tvg-logo="https://i.ibb.co.com/d75VShH/daznxbein1.png" group-title="SPORTS NEW",BEIN SPORTS 1 ID
+#EXTINF:-1 tvg-id="Bein 1.id" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SPORTS NEW",BEIN SPORTS 1 ID
 #EXTHTTP:{"User-Agent":"Vision+/11.3.8 (4.2503051253) Vision+ (Linux;Android 14) ExoPlayerLib/2.18.7"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -251,7 +251,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://fta4-cdn-flr.visionplus.id/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/d75VShH/daznxbein1.png" group-title="SPORTS NEW",BEIN SPORTS 1 MY
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SPORTS NEW",BEIN SPORTS 1 MY
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -259,7 +259,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/3b0660e05eed4d769521eb0275aab3ab/index
 #KODIPROP:inputstream.adaptive.license_key=2eae64f36919660fb5df0396746db524:971aa1f075a00ef73eb9029f781838f5
 https://unifi-live13.secureswiftcontent.com/UnifiHD/live13.mpd
 
-#EXTINF:-1 tvg-id="Bein 2.id" tvg-logo="https://i.ibb.co.com/1XzfTtD/daznxbein2.png" group-title="SPORTS NEW",BEIN SPORTS 2 ID
+#EXTINF:-1 tvg-id="Bein 2.id" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports2.jpg" group-title="SPORTS NEW",BEIN SPORTS 2 ID
 #EXTHTTP:{"User-Agent":"Vision+/11.3.8 (4.2503051253) Vision+ (Linux;Android 14) ExoPlayerLib/2.18.7"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -267,7 +267,7 @@ https://unifi-live13.secureswiftcontent.com/UnifiHD/live13.mpd
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://fta1-cdn-flr.visionplus.id/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-#EXTINF:-1 tvg-id="Bein 3.id" tvg-logo="https://i.ibb.co.com/qd5PzZV/daznxbein3.png" group-title="SPORTS NEW",BEIN SPORTS 3 ID
+#EXTINF:-1 tvg-id="Bein 3.id" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports3.jpg" group-title="SPORTS NEW",BEIN SPORTS 3 ID
 #EXTHTTP:{"User-Agent":"Vision+/11.3.8 (4.2503051253) Vision+ (Linux;Android 14) ExoPlayerLib/2.18.7"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -355,7 +355,7 @@ https://aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/
 #KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 https://aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORTS NEW",ESPN CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn.png" group-title="SPORTS NEW",ESPN CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -363,7 +363,7 @@ https://aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_HD)/master.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="SPORTS NEW",ESPN 2 CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn2.png" group-title="SPORTS NEW",ESPN 2 CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -371,7 +371,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/LNQtJjG/espn3cl.png" group-title="SPORTS NEW",ESPN 3 CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn3.png" group-title="SPORTS NEW",ESPN 3 CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -379,7 +379,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_3_HD)/master.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/QkzBxW3/espn4.png" group-title="SPORTS NEW",ESPN 4 CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn4.png" group-title="SPORTS NEW",ESPN 4 CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -387,7 +387,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/4f70pMW/espn5.png" group-title="SPORTS NEW",ESPN 5 CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn5.png" group-title="SPORTS NEW",ESPN 5 CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -395,7 +395,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/NpXGMH7/espn6.png" group-title="SPORTS NEW",ESPN 6 CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn6.png" group-title="SPORTS NEW",ESPN 6 CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -403,7 +403,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://i.ibb.co.com/2MJNnh2/espn7.png" group-title="SPORTS NEW",ESPN 7 CO
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://mimipipi22.github.io/logo/png/espn7.png" group-title="SPORTS NEW",ESPN 7 CO
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -511,7 +511,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO" group-title="HBO GROUP" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png" tvg-logo="https://iili.io/Ju79f8g.png",HBO
+#EXTINF:-1 tvg-id="HBO" group-title="HBO GROUP" group-logo="https://github.com/ryzen-project/logo/raw/main/natz.png" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg",HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -519,7 +519,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBOHits" group-title="HBO GROUP" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
+#EXTINF:-1 tvg-id="HBOHits" group-title="HBO GROUP" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg",HBO Hits
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -527,7 +527,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO GROUP" tvg-logo="https://iili.io/Ju79otR.png",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO GROUP" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg",HBO Family
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -535,7 +535,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBOSig" group-title="HBO GROUP" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
+#EXTINF:-1 tvg-id="HBOSig" group-title="HBO GROUP" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg",HBO Signature
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -543,7 +543,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Cinemax" group-title="HBO GROUP" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
+#EXTINF:-1 tvg-id="Cinemax" group-title="HBO GROUP" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg",Cinemax
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="HBO GROUP",HBO 🇵🇭
@@ -872,4 +872,3 @@ https://fta3-cdn-flr.visionplus.id/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="France24English.id" tvg-name="France 24 English" tvg-logo="https://mimipipi22.github.io/logo/news/france24.jpg" group-title="NEWS",FRANCE24
 https://fta4-cdn-flr.visionplus.id/out/v1/498b57e974a843d28ea1a393603e5318/index.mpd
-
